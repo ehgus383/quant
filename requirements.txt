@@ -1,0 +1,7 @@
+pandas
+numpy
+OpenDartReader
+pykrx
+streamlit
+tabulate
+colorama
